@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Becharat</h1>
-<p><img align="center" src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif" alt="gif"/></p>
+![Optimisation](https://github.com/miicolas/miicolas/assets/78233186/ef5c45b8-30e2-4c55-92bc-ed802871ab5a)
+
 <h3 align="center">A passionate frontend & backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miicolas&label=Profile%20views&color=0e75b6&style=flat" alt="miicolas" /> </p>
