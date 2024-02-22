@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Becharat</h1>
-![Optimisation](https://github.com/miicolas/miicolas/assets/78233186/ef5c45b8-30e2-4c55-92bc-ed802871ab5a)
+
+![Optimisation](https://github.com/miicolas/miicolas/assets/78233186/b2391343-7c15-41de-bdaf-f440db5c6992)
+
 
 <h3 align="center">A passionate frontend & backend developer from France</h3>
 
