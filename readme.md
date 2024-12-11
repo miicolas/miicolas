@@ -15,8 +15,6 @@ Project:
 - <a href="https://github.com/La-404-Devinci/advent-daily-frontend">advent-calendar</a>
 - <a href="https://github.com/learn404/Learn404">learn404</a>
 
-
-
 ~> <strong>cat skills.txt</strong>
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git,docker,svelte,threejs,react,nextjs,php,symfony,nodejs,express,prisma,py&perline=9&theme=light" />
