@@ -1,8 +1,8 @@
 <div align="left">
   <pre>
- ~> <strong>cat note.txt</strong>
- If I'm not responding to any of your PRs or issues,
- feel free to remind me via <a href="mailto:pro@nicolas-becharat.com">email</a>.
+~> <strong>cat note.txt</strong>
+If I'm not responding to any of your PRs or issues,
+feel free to remind me via <a href="mailto:pro@nicolas-becharat.com">email</a>.
 
 ~> <strong>ls links</strong>
 Portfolio:      <a rel=me href="https://nicolas-becharat.com">nicolas-becharat.com</a>
