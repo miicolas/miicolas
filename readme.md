@@ -18,10 +18,15 @@ Project:
   - <a href="https://github.com/La-404-Devinci/advent-daily-frontend">advent-calendar</a>
   - <a href="https://github.com/learn404/Learn404">learn404</a>
 
+Work:
+  - Developer @ <a href="https://github.com/impulse-studio">impulse-studio</a>
+  - Developer @ <a href="https://github.com/deskare">deskare
+
 ~> <strong>cat skills.txt</strong>
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git,docker,svelte,vue,threejs,react,nextjs,php,symfony,nodejs,express,prisma,py&perline=9&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,git,docker,svelte,vue,threejs,react,nextjs,php,symfony,laravel,nodejs,express,prisma,py&perline=9&theme=light" />
 </pre>
 </div>
+
 
 
 
